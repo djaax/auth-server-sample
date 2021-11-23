@@ -60,7 +60,7 @@ Use the [Pricing Calculator](https://cloud.google.com/products/calculator/) to g
 
     | Property Name   | Property Type | Property Value           |
     |-----------------|---------------|--------------------------|
-    | `client-id`     | `String`      | `sample-ropc-client`     |
+    | `client-id`     | `String`      | `sample-ac-client`       |
     | `ac-enabled`    | `Boolean`     | `true`                   |
     | `redirect-url`  | `String`      | `https://www.google.com` |
 
